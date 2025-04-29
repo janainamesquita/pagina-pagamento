@@ -23,7 +23,7 @@ export default function CardFront() {
                 </div>
             </div>
             <div className="w-full h-[30%] pl-4">
-                <p className="text-white text-[45px]">Nome no Cartão</p>
+                <p className="text-white text-[45px]">Nome do Cartão</p>
             </div>
         </div>
     )
